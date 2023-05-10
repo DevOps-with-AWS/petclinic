@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: dockersampath/project
-  tag: 2
+  repository: initsixcloud/petclinic
+  tag: latest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
